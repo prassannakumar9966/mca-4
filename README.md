@@ -25,13 +25,13 @@ Education
 
 Skills
 --------------------
--c
+- c
 - c++
 - java
 - python
 - webtechnology
 - git and github
-- 
+- Php
 certification
 -------------
 -Successfully completed **python programming** in in udemy
