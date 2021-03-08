@@ -3,27 +3,27 @@ Venkata Prasanna Kumar Vema
 ============
 
 -------------------     ----------------------------
-1 email                       prasannakumarvema81@gmail.com
-phone                         9966069798
-country                       INDIA
+- email                       prasannakumarvema81@gmail.com
+- phone                         9966069798
+- country                       INDIA
 -------------------     ----------------------------
 
 Education
 ---------
 
-2019-2022 (expected)
+- 2019-2022 (expected)
 :   **masters, Computer applications**; Acharya Nagarjuna University (Guntur)
    Percentage : **60**
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2016-2019
+- 2016-2019
 :   **BSc, Computer Science**; University of Acharya NAgarjuna university
     HomeTown (Darsi)
     Percentage : **70**
  
-2016-2016
+- 2016-2016
 :  **intermediate**; DVS junior college
    Percentage : **80**
 
@@ -47,10 +47,10 @@ certification
 
 personal info
 ---------------
-Father name : Chinna Srinu
-DOB : 1998/05/16
-Gender : Male
-Address : Prakasam
+- Father name : Chinna Srinu
+- DOB : 1998/05/16
+- Gender : Male
+- Address : Prakasam
 
      
 
