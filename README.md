@@ -13,6 +13,7 @@ Education
 
 2019-2022 (expected)
 :   **masters, Computer applications**; Acharya Nagarjuna University (Guntur)
+   Percentage : **60**
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -20,6 +21,12 @@ Education
 2016-2019
 :   **BSc, Computer Science**; University of Acharya NAgarjuna university
     HomeTown (Darsi)
+    Percentage : **70**
+ 
+2016-2016
+:  **intermediate**; DVS junior college
+   Percentage : **80**
+
 
     *Minor: Cricket Analysis*
 
